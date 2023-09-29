@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../reading-notes"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "first-web-yay"
+	}
+}
