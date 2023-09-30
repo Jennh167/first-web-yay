@@ -1,11 +1,5 @@
 /* external style sheet */
 
- body {
-    background-color: rgb(155, 26, 210) ;
- }
- * {
-    border: 1px solid black;
- }
  p {
     padding: 20px;
  }
@@ -14,9 +8,13 @@
   float: right;
  }
  nav ul li {
-   background-color: deeppink;
+   background-color: rgb(239, 232, 235);
    display: inline;
+   margin-left: 200px;
  }
  h1 {
    text-align: center;
+ }
+ ul li ul li{
+   display: inline-block;
  }
