@@ -11,11 +11,13 @@ document.write("Hello " + username + "! So glad you're here!");
 if (username == "Kassie"){
     document.write(" You're AMAZING Teach!!");
 } else if(username == "Joey"){
-    document.write("Couldn't do it without you!");
+    document.write(" Couldn't do it without you!");
 }else if(username == "Ben"){
-    document.write("Couldn't do it without you!");
+    document.write(" Couldn't do it without you!");
 } else if(username == "Brandon"){
-    document.write("Couldn't do it without you!");
+    document.write(" Couldn't do it without you!");
+} else {
+    document.write(" The world is a better place with you in it!");
 }
 var color = prompt("What color background would you like?");
 document.bgColor = color;
